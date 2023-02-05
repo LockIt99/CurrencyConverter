@@ -1,0 +1,11 @@
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.CurrencyConverter.resources
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
